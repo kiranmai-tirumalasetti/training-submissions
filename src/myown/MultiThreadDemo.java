@@ -7,6 +7,8 @@ package myown;
 
 	        t1.start();
 	        t2.start();
+	        //multi threading
+	        
 	    }
 	}
 
